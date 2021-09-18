@@ -5,9 +5,7 @@ I denne oppgaven skal vi se på node.js som et backend-verktøy, mens MAMP-webse
 
 ## Oppgaven går som følger:
 Du skal lage et API i Node.js som utfører følgende oppgaver:
-
-1. Koble til databasen
-2.  
+  
 ### Produktet er en nettside:
 	Frontend:
 
