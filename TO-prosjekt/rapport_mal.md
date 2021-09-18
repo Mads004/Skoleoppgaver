@@ -2,8 +2,8 @@
 
 ## Behovsanalyse
 
-### Hvilke utfordringer har brukeren?
-### Hvilke interesser har brukeren?
+#### Hvilke utfordringer har brukeren?
+#### Hvilke interesser har brukeren?
 
 Brukeren har downsyndrom og har vanskelig for å lære seg språk, spesielt engelsk, 
 Hun observerer at engelsk er et nyttig språk, som kommer igjen i mange sammenhenger.
