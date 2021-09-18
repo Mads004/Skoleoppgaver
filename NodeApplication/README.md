@@ -8,17 +8,20 @@ Du skal lage et API i Node.js som utfører følgende oppgaver:
 
 1. Koble til databasen
 2.  
-### Lag en nettside der du:
+### Produktet er en nettside:
 	Frontend:
 
-	>  Viser data fra databasen i en tabell
+	Viser data fra databasen i en tabell
 	Lager et enkelt brukergrensesnitt for å oppdatere rader, sette inn rader og slette rader (Enkel navigation bar). 
-	Style det med CSS, men ikke "overdrevent". 
+	Style det med CSS, men ikke "overdrevent".
+	Bruk MAMP web-server til html, CSS og JS 
 
 	Backend:
 
-	Bruk Express.js til backend-server (Koble til databasen i JS). 
-	Bruk MAMP web-server til html, CSS og JS.
+	Lag en Express.js backend-server.
+	Koble til mysql - databasen din (MAMP sql server)
+	Lag et API som forteller serveren å respondere data fra databasen
+	Input til databasen skal sendes med URL. 
 
-Bruk det samme repository hvis du kan. Hvis ikke, legg meg til på samme måte som forrige gang. 
-
+### Lykke til!
+	
