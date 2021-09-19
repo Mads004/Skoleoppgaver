@@ -23,9 +23,16 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og gis muligheten 
 
 #### Nødvendige funksjoner
 
-> - Database
-> - HTML, CSS og Javascript
-> - Node - backend service
+ - Database
+	Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter endt spill.
+	Forslag til tabell:
+
+	| BrukerID    | Brukernavn    |Passord|
+	| ------------|:-------------:| -----:|
+	| 1           | Johu          |****** |
+
+ - HTML, CSS og Javascript
+ - Node - backend service
 
 
 
