@@ -27,14 +27,14 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og gis muligheten 
 
   Forslag til tabell 1 - Person:
 
-  | BrukerID    | Brukernavn    |Passord|
-	| ------------|:-------------:| -----:|
-	| 1           | Johu          |****** |
+    | BrukerID    | Brukernavn    | Passord|
+    | ------------|:-------------:| -----: |
+    | 1           | Johu          |******  |
 
   Forslag til tabell 2 - Spill:
 
-  | spillID | Dato       |Poeng  | Person |
-	| 1       | Johu       |   3   |   2    |
+    | spillID | Dato       |Poeng  | Person |
+    | 1       | Johu       |   3   |   2    |
 
   Person-kolonnen i Spill - tabellen er en fremmednøkkel som skal fylles
   på med primærnøkkelen fra Person-tabellen for hvert spill.
