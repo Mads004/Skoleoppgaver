@@ -33,8 +33,8 @@ Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter en
 
   Forslag til tabell 2 - Spill:
 
-    | spillID | Dato  |Poeng  | Person |
-    | 1       | Johu  |   3   |   2    |
+    | spillID | Dato        | Poeng | Person |
+    | 1       | 20.08.1991  |   3   |   1    |
 
   Person-kolonnen i Spill - tabellen er en fremmednøkkel som skal fylles
   på med primærnøkkelen fra Person-tabellen for hvert spill.
