@@ -27,15 +27,14 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og gis muligheten 
 
   Forslag til tabell 1 - Person:
 
-	| BrukerID    | Brukernavn    |Passord|
+  | BrukerID    | Brukernavn    |Passord|
 	| ------------|:-------------:| -----:|
 	| 1           | Johu          |****** |
 
   Forslag til tabell 2 - Spill:
 
-  | spillID     | Dato       |Poeng  | Person |
-	| ------------|:---------- | -----:|   1    |
-	| 1           | Johu       |   3   |   2    |
+  | spillID | Dato       |Poeng  | Person |
+	| 1       | Johu       |   3   |   2    |
 
   Person-kolonnen i Spill - tabellen er en fremmednøkkel som skal fylles
   på med primærnøkkelen fra Person-tabellen for hvert spill.
@@ -58,4 +57,4 @@ For eksempel 1/10 på først slide, 2/10 på andre slide.
 - Node kan brukes på to måter:
 1. Som backend service og API-calls.
 2. Som webserver.
-- Dette har jeg ikke bestemt meg for enda. 
+- Dette har jeg ikke bestemt meg for enda.
