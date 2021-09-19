@@ -12,6 +12,12 @@ i form av poeng og økt mestringsfølelse.
 
 ## Applikasjons-analyse
 
-### Hva er applikasjonen?
+#### Hva er applikasjonen?
+#### Husk bilder og illustrasjoner
 
+Applikasjonen er et TRUE-FALSE spill, som skal gi brukeren ett riktig svar og et feil svar.
+Brukeren starter med 0 poeng og får ett poeng for riktig svar. 
+Når alle 10 spørsmålene er stilt, får man en poeng-Score, og Muligheten til å starte igjen.
 
+1. Første side.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
