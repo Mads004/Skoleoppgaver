@@ -23,9 +23,9 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og gis muligheten 
 
 #### Nødvendige funksjoner
 
-> Database
-> HTML, CSS og Javascript
-> Node - backend service
+> - Database
+> - HTML, CSS og Javascript
+> - Node - backend service
 
 
 
