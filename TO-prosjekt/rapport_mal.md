@@ -57,4 +57,5 @@ For eksempel 1/10 på først slide, 2/10 på andre slide.
 - Node kan brukes på to måter:
 1. Som backend service og API-calls.
 2. Som webserver.
+
 Dette har jeg ikke bestemt meg for enda.
