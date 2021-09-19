@@ -23,3 +23,11 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og Muligheten til 
 1. Første side.
 
 ![alt text](Presentation2/Slide1.png "Forside")
+
+2. Andre side
+
+![alt text](Presentation2/Slide2.png "Forside")
+
+3. Tredje side
+
+![alt text](Presentation2/Slide3.png "Forside")
