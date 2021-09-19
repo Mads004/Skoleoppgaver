@@ -23,7 +23,7 @@ Når alle 10 spørsmålene er stilt, får man en poeng-Score, og gis muligheten 
 
 #### Database
 
-	Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter endt spill.
+Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter endt spill.
 
   Forslag til tabell 1 - Person:
 
