@@ -39,6 +39,12 @@ Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter en
     | spillID | Dato        | Poeng | Person |
     | 1       | 20.08.1991  |   3   |   1    |
 
+  | Tables        | Are           | Cool  |
+  | ------------- |:-------------:| -----:|
+  | col 3 is      | right-aligned | $1600 |
+  | col 2 is      | centered      |   $12 |
+  | zebra stripes | are neat      |    $1 |
+
   Person-kolonnen i Spill - tabellen er en fremmednøkkel som skal fylles
   på med primærnøkkelen fra Person-tabellen for hvert spill.
   Person-tabellen skal brukes til innlogging.
