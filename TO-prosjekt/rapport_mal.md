@@ -31,13 +31,11 @@ Skal lage en MYSQL - database som lagrer hvor mange poeng spilleren har etter en
 
   Forslag til tabell 1 - Person:
 
-    | BrukerID    | Brukernavn    | Passord|
-    | 1           | Johu          |******  |
+  | BrukerID       | Brukernavn    | Passord |
+  | -------------- |:-------------:| -------:|
+  | 1              | 20.08.1991    | 3       |
 
   Forslag til tabell 2 - Spill:
-
-  | spillID | Dato        | Poeng | Person |
-  | 1       | 20.08.1991  |   3   |   1    |
 
   | spillID        | Dato          | Poeng | Person |
   | -------------- |:-------------:| -----:| -----: |
