@@ -1,0 +1,15 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: grey;
+}
+
+p {
+  font-size: 50;
+}
